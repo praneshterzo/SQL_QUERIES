@@ -1,0 +1,1 @@
+Select * from Employedetails where reporting="Manager"
